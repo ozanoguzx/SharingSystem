@@ -1,0 +1,17 @@
+MVC 3 Katman
+Model view  Controller
+Model:Class ve entities, View Model burada
+View:Html Render iþlemleri
+Controller:Yönlendiriciler,iþleme göre view yönlendirmeleri yapýyor.
+
+Site içerisinden yapýlacak iþlemlere göre öncelikle controller oluþturuyoruz.
+
+Product Controller,Home Controller,
+
+Örnek olarak Product List,Product Top 10 Sell Product,Insert Product gibi actionlar tanýmlýyoruz.
+Bu dosyalar isim.cshtml adýnda çalýþan yapýlardýr
+
+Örneðin:Product insert yapmak istedik Product/InsertProduct a gitmek istedik önce controller modele gönderiyor,
+sonra ardýndan view e cshtml dosyasýna yolluyor.
+
+URL YAPISI:CONTROLLER,ACTÝON,ÝD

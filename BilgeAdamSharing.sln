@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.23107.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BilgeAdamSharing", "BilgeAdamSharing\BilgeAdamSharing.csproj", "{9A9EE36C-AD9F-4D33-BBE4-ECE23AC6AEDF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DAL", "DAL\DAL.csproj", "{6C748AC5-945A-4AF9-B244-D2E9EA0A4CE7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BLL", "BLL\BLL.csproj", "{EA5F252A-AF45-477A-A7EA-78BBBDF02CF1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9A9EE36C-AD9F-4D33-BBE4-ECE23AC6AEDF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9A9EE36C-AD9F-4D33-BBE4-ECE23AC6AEDF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9A9EE36C-AD9F-4D33-BBE4-ECE23AC6AEDF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9A9EE36C-AD9F-4D33-BBE4-ECE23AC6AEDF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6C748AC5-945A-4AF9-B244-D2E9EA0A4CE7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6C748AC5-945A-4AF9-B244-D2E9EA0A4CE7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6C748AC5-945A-4AF9-B244-D2E9EA0A4CE7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6C748AC5-945A-4AF9-B244-D2E9EA0A4CE7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EA5F252A-AF45-477A-A7EA-78BBBDF02CF1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EA5F252A-AF45-477A-A7EA-78BBBDF02CF1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EA5F252A-AF45-477A-A7EA-78BBBDF02CF1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EA5F252A-AF45-477A-A7EA-78BBBDF02CF1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
